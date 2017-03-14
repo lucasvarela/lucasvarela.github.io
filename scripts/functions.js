@@ -71,6 +71,11 @@ function showResources(which_resource) {
 
 function showTeaching(which_class) {
   removeImageBackground();
+  document.getElementById("content").innerHTML='<object type="text/html" data="publications.html" class="externalHTML"></object>';
+}
+
+function showTeaching2(which_class) {
+  removeImageBackground();
   var p = new Promise(function(resolve, reject) {
   	document.getElementById("content").innerHTML='<object type="text/html" data="publications.html" class="externalHTML"></object>';
   	resolve('Success!');
@@ -99,7 +104,7 @@ function setInnerHTMLSub(name, sub){
 
 function getRepositoryContents(theURL) {
   var xmlHttp = new XMLHttpRequest();
-  xmlHttp.open( "GET", theURL, false); // false for synchronous request
+  xmlHttp.open( "GET", theURL, true); // false for synchronous request
   xmlHttp.send();
   return JSON.parse(xmlHttp.responseText);
 }
