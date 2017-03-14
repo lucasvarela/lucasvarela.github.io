@@ -71,13 +71,13 @@ function showResources(which_resource) {
 
 function showTeaching(which_class) {
   removeImageBackground();
-  document.getElementById("content").innerHTML='<object type="text/html" data="publications.html" class="externalHTML"></object>';
+  document.getElementById("content").innerHTML='<object type="text/html" data="teaching.html#' + which_class + '" class="externalHTML-large"></object>';
 }
 
 function showTeaching2(which_class) {
   removeImageBackground();
   var p = new Promise(function(resolve, reject) {
-  	document.getElementById("content").innerHTML='<object type="text/html" data="publications.html" class="externalHTML"></object>';
+  	document.getElementById("content").innerHTML='<object type="text/html" data="teaching.html#' + which_class + '" class="externalHTML-large"></object>';
   	resolve('Success!');
   });
 
