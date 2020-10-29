@@ -29,4 +29,4 @@ Here you can view my work with further detail:
 * the [publications](https://lucasvarela.github.io/publications/) I have contributed to
 * the [teaching](https://lucasvarela.github.io/teaching/) resources I have gathered
 
-Finally, here's my condensed CV. Feel free to contact me via email at [l.varela10@uniandes.edu.co](mailto:l.varela10@uniandes.edu.co) or any of the social connections listed above.
+Finally, here's my condensed [CV](https://lucasvarela.github.io/assets/pdf/CV.pdf). Feel free to contact me via email at [l.varela10@uniandes.edu.co](mailto:l.varela10@uniandes.edu.co) or any of the social connections listed above.

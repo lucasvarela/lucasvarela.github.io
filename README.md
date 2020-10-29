@@ -23,5 +23,5 @@ To deploy to github pages do:
 
 ## Credits
 
-Theme: [al-folio](https://github.com/alshedivat/al-folio)
+Theme: [al-folio](https://github.com/alshedivat/al-folio) ([demo](https://alshedivat.github.io/al-folio))
 

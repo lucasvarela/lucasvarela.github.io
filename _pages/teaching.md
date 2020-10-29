@@ -6,7 +6,7 @@ description: teaching resources from previous assistant experiences
 nav: true
 ---
 
-I have been an assistant professor for several courses during my PhD. I have also been a teaching assistant while doing my masters and bachelor. In this section I share the notes and problem sets of different courses I've encountered.
+I have been an adjunct professor for several courses during my PhD. I have also been a teaching assistant while doing my masters and bachelor. In this section I share the notes and problem sets of different courses I've encountered.
 
 ## Courses @ [Universidad de los Andes](https://fisica.uniandes.edu.co/en/)
 
@@ -21,10 +21,10 @@ These range from class notes, problem sets and selected problem solutions.
 
 ### Física 2 (problem sets)
 
-* [https://raw.githubusercontent.com/lucasvarela/ComplementariaFisica2/master/201710/Semana2.pdf](Semana 2)
-* [https://raw.githubusercontent.com/lucasvarela/ComplementariaFisica2/master/201710/Semana3A.pdf](Semana 3A)
-* [https://raw.githubusercontent.com/lucasvarela/ComplementariaFisica2/master/201710/Semana3B.pdf](Semana 3B)
-* [https://raw.githubusercontent.com/lucasvarela/ComplementariaFisica2/master/201710/Semana4.pdf](Semana 4)
+* [Semana 2](https://raw.githubusercontent.com/lucasvarela/ComplementariaFisica2/master/201710/Semana2.pdf)
+* [Semana 3A](https://raw.githubusercontent.com/lucasvarela/ComplementariaFisica2/master/201710/Semana3A.pdf)
+* [Semana 3B](https://raw.githubusercontent.com/lucasvarela/ComplementariaFisica2/master/201710/Semana3B.pdf)
+* [Semana 4](https://raw.githubusercontent.com/lucasvarela/ComplementariaFisica2/master/201710/Semana4.pdf)
 
 ### Ondas y Fluidos (problem sets)
 
