@@ -8,6 +8,7 @@ I'm  using ruby via rvm
 gem install jekyll bundler
 bundle install
 bundle update --bundler
+bundle exec jekyll build
 bundle exec jekyll serve
 ```
 
