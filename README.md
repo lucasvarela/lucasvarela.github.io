@@ -11,10 +11,11 @@ bundle update --bundler
 bundle exec jekyll serve
 ```
 
-To deploy to github pages do:
+To deploy to `gh-pages` do:
 ```
-./bin/deploy --user
+./bin/deploy
 ```
+That will create a brach, run serve, generate _site folder with all the generate website, delete everything else and make that folder the root. Source code will remain in master. Do not use `--user` flag, otherwise main code will be removed (more details [here](https://github.com/alshedivat/al-folio/blob/master/README.md)). 
 
 ## Notes
 
