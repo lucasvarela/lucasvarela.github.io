@@ -6,7 +6,7 @@ description: About
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   address: #>
     #<p>Office: home</p>
 
