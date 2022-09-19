@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi. I'm Lucas. Welcome to my website. 
 
-I'm a theoretical physicist specialized in statistical mechanics. I'm currently pursuing a PhD in Physics at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) in the 
+I'm a data scientist and theoretical physicist specialized in statistical mechanics. I completed my PhD in Physics at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) in the 
 [Laboratoire de Physique Théorique et Modèles Statistiques](http://lptms.u-psud.fr/en/) (LPTMS) at alliance with [Universidad de los Andes](https://uniandes.edu.co/en) (Colombia). 
 
 As a scientist I am trained to solve problems with an analytical approach that focuses on finding the best tools and knowledge for each particular task. Due to the inherent collaborative nature of science I am an excellent team player that knows how to aid with his strengths and constantly improve on his weaknesses. These skills have lead to manage data, statistically interpret it and propose successful models in physical systems. 
