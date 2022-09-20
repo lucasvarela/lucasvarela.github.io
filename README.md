@@ -2,7 +2,7 @@
 
 ## How to run locally:
 
-I'm  using ruby via rvm
+I'm  using ruby via [rvm](https://github.com/rvm/ubuntu_rvm). After ruby is installed:
 
 ```
 gem install jekyll bundler
